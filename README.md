@@ -1,7 +1,7 @@
 
 # 🎹 Analog Synthesizer Project – 2020/2021
 
-## 📌 Description
+## 🚀 Overview
 
 This electronics project aims to design and build an **analog synthesizer** in two phases:
 
@@ -112,3 +112,5 @@ This electronics project aims to design and build an **analog synthesizer** in t
 ## ✍️ Authors
 
 Project carried out as part of the **Electronics – 1st year (2020/2021)** course.
+
+## 🌟 License
